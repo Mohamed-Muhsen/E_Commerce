@@ -28,5 +28,4 @@ To get this project running locally:
    git clone https://github.com/Mohamed-Muhsen/E_Commerce.git
 
 
-![image](https://github.com/user-attachments/assets/c52b82b4-f24c-444a-af4a-3d0ac986fda6)
 
