@@ -25,4 +25,4 @@ To get this project running locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/E_Commerce_Cloths.git
+   git clone https://github.com/Mohamed-Muhsen/E_Commerce.git
