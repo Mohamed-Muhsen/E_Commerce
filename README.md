@@ -30,5 +30,4 @@ To get this project running locally:
 
 <video width="640" height="360" controls>
   <source src="file:///C:/Users/GAMING%20STORE/Videos/Screen%20Recordings/Screen%20Recording%202024-07-30%20230410.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
