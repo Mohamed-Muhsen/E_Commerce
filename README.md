@@ -26,3 +26,5 @@ To get this project running locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Mohamed-Muhsen/E_Commerce.git
+   ![image](https://github.com/user-attachments/assets/c7f003b6-79af-44a5-b2c6-8a817a2b5125)
+
