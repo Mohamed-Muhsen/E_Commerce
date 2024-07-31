@@ -28,6 +28,7 @@ To get this project running locally:
    git clone https://github.com/Mohamed-Muhsen/E_Commerce.git
 
 
-<video width="640" height="360" controls>
-  <source src="file:///C:/Users/GAMING%20STORE/Videos/Screen%20Recordings/Screen%20Recording%202024-07-30%20230410.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/bbb22cfd-b5cf-4e4e-b450-e94088076274
+
